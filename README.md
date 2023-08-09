@@ -1,0 +1,1 @@
+# suqares-and-cube-all-number-from-1-to-N
